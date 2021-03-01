@@ -1,6 +1,6 @@
 # <Horiseon_Mockup>
 
-Please view the Horiseon Landing Page Mockup Here: ![Horiseon Landing Page](https://leonhsu95.github.io/horiseon-mockup/)
+Please view the Horiseon Landing Page Mockup Here: [Horiseon Landing Page](https://leonhsu95.github.io/horiseon-mockup/)
 
 ## Description
 
