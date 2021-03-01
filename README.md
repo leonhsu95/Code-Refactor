@@ -1,5 +1,7 @@
 # <Horiseon_Mockup>
 
+Please view the Horiseon Landing Page Mockup Here: ![Horiseon Landing Page](https://leonhsu95.github.io/horiseon-mockup/)
+
 ## Description
 
 This project is built for Horiseon (client) to achieve better SEO. The website, although functional, does not meet web accessibility standards, hindering their searchability on search engines as 'div' containers primarily make up the webpage. This issue was solved by not just adding descriptive 'meta' tags that adds search result description, keywords, and search engine robots but by changing the 'div' containers into more helpful Semantic Elements such as 'Header', 'Main' and 'Footer' tags.
@@ -26,8 +28,6 @@ git clone git@github.com:leonhsu95/horiseon-mockup.git"
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 This landing page is a mockup and can be used and tested freely. If testing, please save a copy of the original files and edit on the copied file.
 The website mockup should look like this:
  ![Horiseon Landing Page Screenshot](assets/images/horiseon-screenshot.png)
