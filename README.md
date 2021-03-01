@@ -65,4 +65,4 @@ SOFTWARE.
 
 ## Tests
 
-Website is W3 HTML validated [HTML Markup Validation Tool](https://validator.w3.org/) and CSS [CSS Validation Service](https://jigsaw.w3.org/css-validator/) validated.
+Website is W3 HTML validated [HTML Markup Validation Tool](https://validator.w3.org/) and CSS validated [CSS Validation Service](https://jigsaw.w3.org/css-validator/).
