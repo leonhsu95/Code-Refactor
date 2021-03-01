@@ -18,7 +18,7 @@ Interestingly, rewriting specific class names to id names in important Semantic 
 To install the files into your local repo, using Git Bash Terminal:
 
 1) Create a folder locally to nominate for cloning from online repo
-2) Clone with SSH by git clone <git@github.com:leonhsu95/horiseon-mockup.git>
+2) Clone with SSH by git clone git@github.com:leonhsu95/horiseon-mockup.git
 
 ## Usage
 
